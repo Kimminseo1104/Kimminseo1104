@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Kimminseo1104/Kimminseo1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+안녕하세요.
+저는 김민서입니다. 코딩을 공부하고 있습니다.
 
-Here are some ideas to get you started:
+## Career
+고등학교 졸업, 대학교 재학 중
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+E-mail - gnfl4568@naver.com
+
+## Courses
+Software Engineering
+
